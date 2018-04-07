@@ -4,6 +4,7 @@ Connects to a Python Twitter stream that pushes out all new posts by the account
 Below is the Twitter names for the coins I have added to the script. 
 If there's any coin I have missed or Binance adds a new coin please let me know.
 
+Update: added 'Groestlcoin (GRS)'
     '0x'
     'AdEx'
     'Agrello'
