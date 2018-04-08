@@ -3,8 +3,8 @@ import json
 import winsound
 """API Keys, make your own at Twitter apps"""
 
-auth = tweepy.OAuthHandler("KbkMGodOk1n29dXtSPus3vFdW", "OJAZWHMLLtpcpjeSHbl3tSDE2HK1XBIfjtYp5gjWaFWT9SPfS9")
-auth.set_access_token("3004017752-fmJZq7bgB5HZwhZ1mdzDjbZPtNjZg8pxJrs59ks", "PUAmIkauJ0lWqmAJ1tocBvyo0Rdzg6mNFuM4PnHLIPVWd")
+auth = tweepy.OAuthHandler("Consumer Key", "Consumer Secret Key")
+auth.set_access_token("Access Token", "Access Token Secret")
 api = tweepy.API(auth)
 
 """User ID's for the twitter accounts of coins listed on Binance"""
