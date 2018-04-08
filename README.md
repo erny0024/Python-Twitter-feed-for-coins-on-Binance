@@ -1,5 +1,6 @@
 # Python-Twitter-feed-for-coins-on-Binance
 Connects to a Python Twitter stream that pushes out all new posts by the accounts of coins listed on the Binance Exchange. Also added a little beep when there's a new tweet.
+If a Tweet starts with RT @username it's a retweet.
 
 Below is the Twitter names for the coins I have added to the script. 
 If there's any coin I have missed or Binance adds a new coin please let me know.
